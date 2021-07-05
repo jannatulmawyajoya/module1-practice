@@ -84,7 +84,14 @@ body{
 }
 #last-section-heading{
     color: orangered;
-    margin-left: 20px;
+   text-align: center;
+   text-decoration: underline;
+}
+.background-image{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    
 }
 
 
